@@ -1,0 +1,17 @@
+body{
+    
+    height: 20rem;
+    background-color: white;
+}
+
+.text{
+    width: 50%;
+    background-color: rgb(226, 197, 201);
+    height: 30rem;
+    margin-left: 20rem;
+    border-radius: 2rem;
+}
+
+.informacion{
+    padding-left: 5rem;
+}
